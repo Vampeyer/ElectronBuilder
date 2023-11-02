@@ -46,6 +46,11 @@ As long as the exe file is in the folder it was created in ,
 or has those files,  it should work without a problem . 
 
 
+
+
+*** - Install.js is provided as  a courtesy file,  for implementing pre node installs , for node dev apps. ***
+
+
 Required Software 
 -------------------
 Node 
